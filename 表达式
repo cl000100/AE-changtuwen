@@ -2,3 +2,6 @@
 [value[0],thisLayer.height/2]
 粘贴在下面所有层的position属性上
 [value[0],thisLayer.height/2+thisComp.layer(thisLayer, -1).height/2+thisComp.layer(thisLayer, -1).transform.position[1]]
+
+安装了github桌面
+能否提交？
