@@ -4,3 +4,6 @@ AE长图文无缝衔接的表达式
 先要add
 再commit
 再push
+***
+单次commit提交会存在
+这是第一次commit
